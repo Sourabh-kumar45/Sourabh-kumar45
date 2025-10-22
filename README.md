@@ -12,7 +12,7 @@
 ### 🧠 About Me
 
 - 🎓 I'm passionate about full-stack development and building practical, real-world apps.
-- 👨‍💻 Currently diving deeper into *Machine Learning* and *Backend Systems*.
+- 👨‍💻 Currently diving deeper into *Web Dev* & *Backend Systems*.
 - ⚙ I love clean UI, efficient code, and strong system design.
 
 ---
