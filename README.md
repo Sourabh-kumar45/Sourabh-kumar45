@@ -85,7 +85,7 @@
 
 ### 💬 Fun Fact
 
-> "The best way to predict the future is to create it." — Alan Kay
+> "The best way to predict the future is to create it."
 
 🌱 I believe in building, sharing, and growing — one line of code at a time.
 
