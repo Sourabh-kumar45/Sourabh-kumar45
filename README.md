@@ -121,7 +121,7 @@ Python • FastAPI • PyTorch • Hugging Face • LangChain • MongoDB
 
 <br>
 
-<a href="YOUR_FINSAIGHT_REPO">
+<a href="https://github.com/Sourabh-kumar45/FinSight-AI">
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -147,7 +147,7 @@ React • Node.js • Express • MongoDB • Tailwind CSS
 
 <br>
 
-<a href="YOUR_SHIKSHA_SARTHI_REPO">
+<a href="https://github.com/yogesh5410/ShikshaSarthi">
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -175,7 +175,7 @@ Next.js • React • TypeScript • MongoDB • Tailwind CSS
 
 <br>
 
-<a href="YOUR_MYTUBE_REPO">
+<a href="https://github.com/Sourabh-kumar45/My_tube">
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -207,15 +207,15 @@ Next.js • React • TypeScript • MongoDB • Tailwind CSS
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/sourabh-kumar-9aa80a298">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Sourabh-kumar45">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sourabhindia45@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
