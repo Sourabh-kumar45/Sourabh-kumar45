@@ -1,96 +1,246 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e7fe2&height=200&section=header&text=Sourabh%20Kumar&fontSize=50&fontColor=ffffff" alt="header" />
-</p>
+<div align="center">
 
-<!-- Greeting -->
-<h2 align="center">Hey there 👋, I'm Sourabh Kumar</h2>
-<p align="center">🚀 Web Developer | 💡 Tech Explorer | 🎓 Lifelong Learner</p>
+<a href="#-about-me">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071e3d,40:0d5c91,80:1d9bf0,100:6fb1fc&height=220&section=header&text=Sourabh%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=18" />
+</a>
 
----
+</div>
 
-### 🧠 About Me
+<div align="center">
 
-- 🎓 I'm passionate about full-stack development and building practical, real-world apps.
-- 👨‍💻 Currently diving deeper into *Web Dev* & *Backend Systems*.
-- ⚙ I love clean UI, efficient code, and strong system design.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Java+%7C+MERN+Stack+%7C+Python+🚀;AI+Engineering+%7C+Deep+Learning+%7C+RAG+🧠;Building+Intelligent+Web+Applications+✨)](https://git.io/typing-svg)
 
----
-
-### 🛠 Tech Stack
+</div>
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
-  <br/>
-
-  <!-- Backend & DB -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-  <br/>
-
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-
-  <br/>
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<b>B.Tech Electrical Engineering @ IIT Bhilai</b>
 </p>
 
 ---
 
-### 📌 Featured Projects
+# 👨‍💻 About Me
 
-- 🔗 [*Balance Up*](https://github.com/your-username/balance-up) — A clean expense tracking app with graphs and authentication.
-- 🔗 [*Doctor-Patient Chat App*](https://github.com/your-username/doctor-chat-app) — Secure chat system using models and controllers.
-- 🔗 [*Mentorship Program Site*](https://github.com/your-username/mentorship2024) — Modern site built for college program.
+```java
+Sourabh Kumar {
+    role: "AI Engineer & Full-Stack Developer",
+    education: "B.Tech Electrical Engineering @ IIT Bhilai",
+    motto: "First, solve the problem. Then, write the code."
+}
+```
+
+- 🔭 Building AI-powered and full-stack applications
+- 🤖 Exploring LLMs, RAG Systems, LangChain, LangGraph & Agentic AI
+- 🌱 Learning Deep Learning, MLOps, and AI System Design
+- 💬 Ask me about Java, React, Next.js, Python, AI Engineering and System Design
+- ⚡ Passionate about scalable systems, clean architecture and intelligent products
 
 ---
 
-### 📊 GitHub Stats
+# 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourabhkumar&show_icons=true&theme=radical" alt="Sourabh's GitHub stats" height="180px"/>
-  <img src="https://streak-stats.demolab.com?user=sourabhkumar&theme=radical" alt="streak" height="180px"/>
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+## Databases & ORMs
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge" />
+</p>
+
+## ML / DL / AI
+
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Classical_ML-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ANNs-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Neural_Networks-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-black?style=for-the-badge" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=github,vscode,postman" />
 </p>
 
 ---
 
-### 🔗 Let's Connect
+# 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-id/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/sourabhkumar">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 FinSight AI
+
+AI-powered personal finance intelligence platform that categorizes transactions, forecasts spending patterns, and generates financial insights.
+
+#### Features
+
+- 🤖 BERT-based transaction categorization
+- 📊 Spending analytics dashboard
+- 📈 LSTM forecasting
+- 🧠 RAG-powered financial insights
+- ⚡ FastAPI backend
+- 📑 CSV transaction processing
+
+#### Tech
+
+Python • FastAPI • PyTorch • Hugging Face • LangChain • MongoDB
+
+<br>
+
+<a href="YOUR_FINSAIGHT_REPO">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎓 Shiksha Sarthi
+
+A MERN-based educational platform designed to make learning engaging and effective.
+
+#### Features
+
+- 📝 Proctored assessments
+- 📚 Structured learning modules
+- 🧩 Interactive educational activities
+- 📊 Student analytics dashboard
+- 🌐 Responsive user experience
+
+#### Tech
+
+React • Node.js • Express • MongoDB • Tailwind CSS
+
+<br>
+
+<a href="YOUR_SHIKSHA_SARTHI_REPO">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+### 📺 MyTube
+
+A modern video-sharing platform inspired by YouTube.
+
+#### Features
+
+- 🎥 Upload & stream videos
+- 👍 Like and comment system
+- 🔔 Channel subscriptions
+- 👤 Authentication & profiles
+- 📂 Video management dashboard
+
+#### Tech
+
+Next.js • React • TypeScript • MongoDB • Tailwind CSS
+
+<br>
+
+<a href="YOUR_MYTUBE_REPO">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 💬 Fun Fact
+# 📊 GitHub Stats
 
-> "The best way to predict the future is to create it."
+<div align="center">
 
-🌱 I believe in building, sharing, and growing — one line of code at a time.
+<img src="https://github-readme-stats.vercel.app/api?username=Sourabh-kumar45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170px"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabh-kumar45&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170px"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sourabh-kumar45&theme=tokyonight&hide_border=true" height="170px"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e7fe2&height=150&section=footer"/>
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 Dev Philosophy
+
+<p>
+First, solve the problem. Then, write the code.
 </p>
+
+<p>
+🌱 Always building. Always learning. One commit at a time.
+</p>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,100:f64f59&height=140&section=footer"/>
+
+</div>
